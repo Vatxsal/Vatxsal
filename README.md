@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=VAXYY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20%2B%20Applied%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Vatsal%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20%2B%20Applied%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,15 +15,6 @@
 ### ⚡ About me
 
 I'm a full-stack + applied AI engineer based in Jaipur, India, building products that solve real, India-specific problems — not toy demos. I run **Aasvaa Innovation Labs**, where I design and ship end-to-end systems: frontend, backend, database, and the AI layer that ties it together.
-
-```txt
-> const vatsal = {
-    focus: ["Full-stack engineering", "Applied AI / GenAI", "GovTech", "Fintech"],
-    currentlyBuilding: "Sethji — WhatsApp-native AI billing + udhaar + GST assistant",
-    handles: ["large-scale relational datasets", "LLM pipelines", "real-time systems"],
-    philosophy: "ship real products, not notebooks"
-  }
-```
 
 - 🧾 Building **Sethji** — an AI billing/udhaar/GST assistant that lives entirely inside WhatsApp for Indian kirana shop owners
 - 📊 Built server-side pipelines and query optimizations handling **600K+ row** government datasets — indexing, caching, and RPC-based aggregation instead of client-side crunching
@@ -42,8 +33,11 @@ I'm a full-stack + applied AI engineer based in Jaipur, India, building products
 
 <div align="center">
 
-![Gemini](https://img.shields.io/badge/Gemini%202.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Gemini 3.5](https://img.shields.io/badge/Gemini%203.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama%20(local)-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-3B82F6?style=flat-square)
@@ -72,7 +66,7 @@ WhatsApp-native AI billing, udhaar ledger, and GST assistant for Indian kirana s
 
 AI platform helping citizens navigate government services (Ration Card, Aadhaar, PAN) across **30 states**, fully bilingual, with a safe-AI intent layer that prevents hallucinated government info.
 
-`Next.js 14` `Supabase` `Gemini 2.5` `BetterAuth`
+`Next.js 14` `Supabase` `Gemini` `BetterAuth`
 
 </td>
 </tr>
