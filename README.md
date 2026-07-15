@@ -1,100 +1,98 @@
 <div align="center">
 
-# Hi, I'm Vatsal 👋 — <code>Vaxyy</code>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=VAXYY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20%2B%20Applied%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-### Full-stack developer building India-focused AI products — GovTech, kirana fintech, and citizen services
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mishra.vatsal1604@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra.vatsal1604@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Shipping+AI-powered+products+for+India+%F0%9F%87%AE%F0%9F%87%B3;RAG+%2B+Agents+%2B+Full-stack+%3D+%E2%9D%A4%EF%B8%8F;Turning+600K%2B-row+datasets+into+usable+pipelines;WhatsApp+%2B+LLMs+%2B+Kirana+shops+%3D+Sethji" />
 
 </div>
 
 ---
 
-### 🚀 About me
+### ⚡ About me
 
-Final-year B.Tech CSE student at Manipal University Jaipur, and solo founder/primary developer at **Aasvaa Innovation Labs**. I build production AI products for the Indian market — from a GovTech planning dashboard used by a state government client, to a WhatsApp-native billing assistant for kirana shop owners.
+I'm a full-stack + applied AI engineer based in Jaipur, India, building products that solve real, India-specific problems — not toy demos. I run **Aasvaa Innovation Labs**, where I design and ship end-to-end systems: frontend, backend, database, and the AI layer that ties it together.
 
-- 🏗️ Currently building **Sethji** — a WhatsApp-native AI billing, udhaar ledger, and GST assistant for Indian kirana shops
-- 🏛️ Also building **Manthaan OS** and **SarkariSaathi** — GovTech and citizen-services platforms
-- 🧠 Actively deepening my AI engineering skills — RAG, agentic workflows, and LLM internals, TypeScript-first
-- 🛠️ Prefer AI-assisted, prompt-driven development workflows over fully manual coding
-- 📍 Based in Jaipur, India
+```txt
+> const vatsal = {
+    focus: ["Full-stack engineering", "Applied AI / GenAI", "GovTech", "Fintech"],
+    currentlyBuilding: "Sethji — WhatsApp-native AI billing + udhaar + GST assistant",
+    handles: ["large-scale relational datasets", "LLM pipelines", "real-time systems"],
+    philosophy: "ship real products, not notebooks"
+  }
+```
+
+- 🧾 Building **Sethji** — an AI billing/udhaar/GST assistant that lives entirely inside WhatsApp for Indian kirana shop owners
+- 📊 Built server-side pipelines and query optimizations handling **600K+ row** government datasets — indexing, caching, and RPC-based aggregation instead of client-side crunching
+- 🌐 Shipped **SarkariSaathi**, an AI-powered navigator helping citizens across 30 states find the right government scheme, fully bilingual (Hindi/English)
+- 🤖 Building agentic, RAG-based systems on a TypeScript-first stack — no Python detour needed
+- 🎙️ Built a personal AI voice assistant (JARVIS) with real-time transcription, wake-word detection, and browser automation
+- ⚙️ Believe in AI-assisted, prompt-driven engineering workflows over manual grind
 
 ---
 
 ### 🧰 Tech stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,nodejs,supabase,postgres,prisma,tailwind,docker,vercel,figma&theme=dark" />
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+
+![Gemini](https://img.shields.io/badge/Gemini%202.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-3B82F6?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-### 🌟 Featured projects
+### 🌟 Featured builds
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🧾 Sethji**
-WhatsApp-native AI billing, udhaar ledger, and GST assistant for Indian kirana shops. Primary commercial product.
+**🧾 Sethji** <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
+
+WhatsApp-native AI billing, udhaar ledger, and GST assistant for Indian kirana shops. My primary commercial product — no app to download, it lives where shopkeepers already are.
+
 `Next.js` `Hono.js` `Supabase` `Groq Llama 3.3` `WhatsApp Cloud API`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏛️ Manthaan OS**
-GovTech planning dashboard built for a government client — "Viksit Rajasthan @ 2047" — handling 600K+ row datasets with server-side aggregation.
-`Next.js` `Supabase` `Gemini AI`
+**📋 SarkariSaathi** <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+AI platform helping citizens navigate government services (Ration Card, Aadhaar, PAN) across **30 states**, fully bilingual, with a safe-AI intent layer that prevents hallucinated government info.
 
-**📋 SarkariSaathi**
-AI-powered platform helping citizens navigate Indian government services (Ration Card, Aadhaar, PAN) across 30 states, full Hindi/English i18n.
 `Next.js 14` `Supabase` `Gemini 2.5` `BetterAuth`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **⚖️ Fullstack Legal AI Platform**
-NestJS + Next.js monorepo with solo-owned DB schema, RBAC auth flows, and a typed REST API layer for a legal-tech chat + repo-browsing product.
+
+NestJS + Next.js monorepo, solo-owned DB schema, RBAC auth, typed REST API layer, and a production chat + repo-browsing UI.
+
 `NestJS` `Next.js 16` `Prisma` `PostgreSQL`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎙️ JARVIS**
-Personalized AI voice assistant for Windows — wake-word detection, real-time transcription, and browser automation.
+
+A personal AI voice assistant for Windows — wake-word detection, real-time transcription, and full browser automation via Playwright.
+
 `faster-whisper` `pvporcupine` `Gemini` `Playwright`
-
-</td>
-<td width="50%">
-
-**🔊 Real-Time Noise Monitoring System**
-IoT system streaming real-time noise data over Wi-Fi with a MATLAB-based 3D visualization interface — deployed as a smart-city PoC at Manipal University Jaipur.
-`IoT` `MATLAB` `Real-time Systems`
 
 </td>
 </tr>
@@ -111,10 +109,30 @@ IoT system streaming real-time noise data over Wi-Fi with a MATLAB-based 3D visu
 
 </div>
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🐍 Contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ---
 
 <div align="center">
 
-📫 Reach me at **mishra.vatsal1604@gmail.com** — always open to discussing GovTech, fintech, or applied AI engineering.
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=00c9a7&style=flat" />
+
+📫 **mishra.vatsal1604@gmail.com** — open to talking GovTech, fintech, or applied AI engineering.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
